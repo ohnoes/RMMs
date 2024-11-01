@@ -1,4 +1,4 @@
-Software,Domain,Executables,App-ID,Category,References
+Software,Domain,Executables,AppID,Category,References
 Access Remote PC,,"rpcgrab.exe,rpcsetup.exe",,RMM,
 Action1,action1.com,action1_agent.exe,RMM,
 AeroAdmin,aeroadmin.com,aeroadmin.exe,RMM,
